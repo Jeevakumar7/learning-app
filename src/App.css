@@ -25,3 +25,10 @@ img {
 .access {
   height: 1px;
 }
+.NameList{
+  text-align: center;
+}
+.phone{
+  height: 400px;
+  width: 300px;
+}

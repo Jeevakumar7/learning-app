@@ -1,0 +1,13 @@
+.Phone{
+    text-align: center;
+   display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 27px;
+    justify-content: center; 
+}
+.Cart{
+    display: flex;
+    justify-content: end;
+    margin: 15px;
+}

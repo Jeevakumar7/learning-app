@@ -1,8 +1,9 @@
 import './App.css';
 
-
  function App() {
   return (
+    <>
+    
     <div className="App">
       <Cards
        access="✖"
@@ -22,7 +23,10 @@ import './App.css';
         name="suriya"
         batch="batch3"
       />
+  
     </div>
+
+    </>
   );
 }
 export default App
@@ -38,4 +42,5 @@ function Cards(props) {
     </div>
   );
 }
+
 
